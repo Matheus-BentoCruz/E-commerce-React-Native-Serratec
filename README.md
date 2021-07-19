@@ -9,7 +9,7 @@
   <li>Clayton Andrade (https://github.com/andradeClayton)
   <li>Karine Escobar (https://github.com/karinemescobar)
   <li>Matheus de Paula Vieira (https://github.com/matheusvieira99)
-  <li>Matheus Bento Cruz
+  <li>Matheus Bento Cruz(https://github.com/Matheus-BentoCruz)
   <li>Raphael Machado
   <li>Thamyris Gama Thurler (https://github.com/ThamyrisGT)
 </ul>
